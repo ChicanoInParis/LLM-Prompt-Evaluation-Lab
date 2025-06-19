@@ -29,10 +29,6 @@ You can preview the notebook in your browser using nbviewer:
 
 👉 [View notebook on nbviewer](https://nbviewer.org/github/ChicanoInParis/LLM-Prompt-Evauation-Lab/blob/main/LLM_analysis.ipynb)
 
-Or clone the repo and run locally:
+---
 
-```bash
-git clone https://github.com/ChicanoInParis/LLM-Prompt-Evauation-Lab.git
-cd LLM-Prompt-Evauation-Lab
-pip install pandas matplotlib
-jupyter notebook
+![LLM Accuracy Chart](Average%20Accuracy%20Score.png)
