@@ -1,24 +1,38 @@
-# 🧪 LLM Accuracy Benchmark (Zero vs One Shot)
+# 🧪 LLM Prompt Evaluation Lab
 
-This is a personal benchmark comparing 31 local LLMs across a variety of tasks using zero-shot and one-shot prompts. Each model was scored from 0–5 in categories like:
+This is my first hands-on project to benchmark local LLMs using zero-shot and one-shot prompts across a variety of real-world tasks.
 
-- Math
-- Coding
-- Logic
-- Ambiguity
-- Creativity
-- Medical knowledge
-- Error handling
+I scored 31 different models on a 0–5 scale in categories like:
 
-## 📊 What's Inside
+- 🧠 Logic
+- 🧮 Math
+- 👨‍💻 Coding
+- 🎨 Creativity
+- 🩺 Medical terminology
+- 🤖 Ambiguity handling
+- 🛠️ Error resolution
 
-- `LLM_analysis.ipynb` – Python notebook using pandas + matplotlib
-- `LLM-zero-one-shot.csv` – Raw scoring data
-- `llm-accuracy-chart.png` – (Optional) chart image
+## 📁 Contents
 
-## 📖 Blog Post
+- `LLM_analysis.ipynb` – My Jupyter notebook using pandas + matplotlib
+- `LLM-zero-one-shot.csv` – Raw scoring results
+- `llm-accuracy-chart.png` – (Optional) output chart
 
-Read the full write-up here:  
-👉 [chicanoinparis.github.io → LLM Blog Post](https://chicanoinparis.github.io/Prompt-Engineer-Portfolio/2025/06/19/my-first-dive.html)
+## 📖 Related Blog Post
 
----
+I wrote about this experiment and what I learned:
+👉 [Read the blog post](https://chicanoinparis.github.io/Prompt-Engineer-Portfolio/2025/06/19/my-first-dive.html)
+
+## 🧪 Try It Yourself
+
+You can preview the notebook in your browser using nbviewer:
+
+👉 [View notebook on nbviewer](https://nbviewer.org/github/ChicanoInParis/LLM-Prompt-Evauation-Lab/blob/main/LLM_analysis.ipynb)
+
+Or clone the repo and run locally:
+
+```bash
+git clone https://github.com/ChicanoInParis/LLM-Prompt-Evauation-Lab.git
+cd LLM-Prompt-Evauation-Lab
+pip install pandas matplotlib
+jupyter notebook
