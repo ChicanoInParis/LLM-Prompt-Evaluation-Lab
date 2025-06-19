@@ -32,3 +32,12 @@ You can preview the notebook in your browser using nbviewer:
 ---
 
 ![LLM Accuracy Chart](Average%20Accuracy%20Score.png)
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![License](https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative)
+![Status](https://img.shields.io/badge/Stage-First%20Round-lightgrey)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChicanoInParis/LLM-Prompt-Evauation-Lab/blob/main/LLM_analysis.ipynb)
+[🔍 View on nbviewer](https://nbviewer.org/github/ChicanoInParis/LLM-Prompt-Evauation-Lab/blob/main/LLM_analysis.ipynb)
+
+
