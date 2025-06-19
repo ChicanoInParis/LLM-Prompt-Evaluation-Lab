@@ -37,7 +37,8 @@ You can preview the notebook in your browser using nbviewer:
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative)
 ![Status](https://img.shields.io/badge/Stage-First%20Round-lightgrey)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChicanoInParis/LLM-Prompt-Evauation-Lab/blob/main/LLM_analysis.ipynb)
-[🔍 View on nbviewer](https://nbviewer.org/github/ChicanoInParis/LLM-Prompt-Evauation-Lab/blob/main/LLM_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChicanoInParis/LLM-Prompt-Evaluation-Lab/blob/main/LLM_Prompt_Eval.ipynb)
+
+[🔍 View on nbviewer](https://nbviewer.org/github/ChicanoInParis/LLM-Prompt-Evaluation-Lab/blob/main/LLM_Prompt_Eval.ipynb)
 
 
